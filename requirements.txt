@@ -3,8 +3,8 @@ pandas
 numpy
 pymongo
 certifi
-pymongo[srv]==3.11
 scikit-learn
 pyaml
+pymongo[srv]==4.6.1
 
 #-e .
